@@ -8,7 +8,9 @@
     We also can notice that the more drivers there are, the more rides will be available to accomodate the demand of service. 
     The average fare per driver and ride are smaller in Urban areas as well because the rides tend to be shorter distances causing the fare cost average to be less. 
     In Rural areas, the distance between A and B tend to be a large drive distance which result in a large fare cost for rider. 
-    ![Avg_fare](https://user-images.githubusercontent.com/106560752/180340955-3dfb625e-ec9d-404d-9196-b29324afe7d3.png)
+    
+    ![Avg_fare](https://user-images.githubusercontent.com/106560752/180343906-fae6f70a-3b9a-4b85-84ba-3a03ac322950.png)
+
     
   ### Summary
     There is a consistant trend for each city as the months go by so busy isn't dropping or climbing dramatically at any given point. 
